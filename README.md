@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Technical Expertise
+## 🧠 Technical Focus
 
 <details open>
 <summary><b>🤖 AI & Generative Intelligence</b></summary>
