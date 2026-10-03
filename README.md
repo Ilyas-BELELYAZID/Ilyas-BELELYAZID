@@ -1,161 +1,268 @@
 # 🤖 Ilyas BEL EL YAZID
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  Transforming Ideas Into Intelligence                           │
-│  AI Engineer | Full-Stack Developer | Data Architect            │
-│  ENSA Al Hoceima                                                │
-└─────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   AI Engineer × Full-Stack Developer × Data Architect        ║
+║                                                               ║
+║   Building Intelligent Systems That Scale                    ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-> **🎓 Engineering Student @ ENSA Al Hoceima** | Specializing in **Digital Transformation & Artificial Intelligence**  
-> 🎯 **Currently Seeking:** PFE (End-of-Studies) Internship Opportunities **(Starting 2026/2027)**  
-> 💼 **Proven Track Record:** Full-stack AI systems, production-grade data pipelines, and enterprise solutions
+**Engineering Student @ ENSA Al Hoceima** · **Digital Transformation & AI Specialist**
+
+🎯 PFE Internship Opportunities Available (2026/2027)  
+💼 Expertise in Production-Grade AI Systems, Data Pipelines & Enterprise Architecture
 
 ---
 
-## 🚀 What I Do
+## 🎯 Executive Summary
 
-I engineer **end-to-end intelligent systems** that bridge cutting-edge AI with real-world impact. From training custom LLMs and architecting enterprise RAG pipelines to deploying scalable full-stack applications—I turn complex problems into elegant, production-ready solutions.
+I build **production-ready intelligent systems** that transform complex problems into elegant, scalable solutions. Specializing in end-to-end AI/ML pipelines, enterprise data architecture, and full-stack deployments—from fine-tuned LLMs and RAG systems to microservices architectures and high-performance data lakehouses.
 
-**My Sweet Spot:** Building systems where AI meets engineering rigor.
-
----
-
-## 🧠 Technical Expertise
-
-### 🤖 AI & Generative Intelligence
-`Generative AI` • `LLMs (Large Language Models)` • `RAG (Retrieval-Augmented Generation)` • `Fine-Tuning (LoRA, QLoRA)` • `Prompt Engineering` • `NLP (spaCy, Transformers)` • `Deep Learning (TensorFlow, PyTorch, Keras)` • `Hugging Face Ecosystem`
-
-### 🔧 Backend & System Architecture
-`FastAPI` • `Spring Boot` • `Flask` • `RESTful APIs` • `Microservices Architecture` • `Design Patterns (MVC, OOP, UML)` • `PySide6 (Desktop Apps)` • `Odoo Enterprise`
-
-### 📊 Data & ML Engineering
-`Apache Airflow` • `Apache Spark` • `Data Lakehouses (Medallion Architecture)` • `ETL/ELT Pipelines` • `Data Warehousing` • `Vector Search (FAISS, ChromaDB)` • `Pandas, NumPy, Scikit-learn` • `Data Analysis & Modeling`
-
-### 🛠️ Cloud, DevOps & Infrastructure
-`Docker` • `Docker Compose` • `CI/CD (Git, GitHub)` • `Microsoft Azure` • `Cloud Computing` • `IoT Integration` • `Linux (Ubuntu, Kali)`
-
-### 💾 Databases & Indexing
-`PostgreSQL` • `MySQL` • `MongoDB` • `Vector Databases (FAISS, ChromaDB)` • `Query Optimization` • `Indexing Strategies`
-
-### 💻 Languages & Frontend
-`Python` • `Java (Java EE)` • `C (Advanced)` • `SQL` • `JavaScript` • `HTML5 / CSS3` • `React 19` • `TypeScript` • `Bootstrap 5` • `Tailwind CSS`
-
-### 🛠️ Tools & Methodologies
-`Jira (Scrum, Agile Sprints)` • `Postman` • `Maven` • `Jupyter Notebook` • `Git / GitHub` • `Agile Project Management` • `Odoo (Digital PM)`
+**What Sets Me Apart:**
+- 🧠 **AI Engineering at Scale:** Fine-tuning LLMs, RAG architecture, prompt optimization
+- 🏗️ **Enterprise Systems Design:** Microservices, data warehousing, ETL orchestration
+- 🚀 **Full-Stack Delivery:** From backend APIs to production-grade web applications
+- 📊 **Data Intelligence:** Data lakehouses, vector search, ML matching engines
 
 ---
 
-## 🏆 Featured Projects
+## 💻 Technical Arsenal
 
-### 🛡️ **AtlasLegalAI** — Moroccan Legal Intelligence Platform
-**[→ View Repository](https://github.com/tarik-boukaidi/Judiciaire-model)**
+### Artificial Intelligence & LLMs
+```
+Generative AI · LLMs (Fine-Tuning, LoRA, QLoRA)
+RAG (Retrieval-Augmented Generation) · NLP (Transformers, spaCy)
+Deep Learning (PyTorch, TensorFlow, Keras) · Hugging Face
+Prompt Engineering · Vector Databases (FAISS, ChromaDB)
+```
 
-A domain-specialized **multilingual Retrieval-Augmented Generation (RAG)** platform delivering hallucination-free legal analysis in **Arabic & French**. Engineered for Moroccan legal jurisprudence with strict source grounding and real-time citations.
+### Backend & System Architecture
+```
+FastAPI · Spring Boot · Flask · RESTful APIs
+Microservices Architecture · Design Patterns (MVC, OOP, UML)
+PySide6 (Desktop Applications) · Odoo Enterprise
+Production Deployment & Scaling
+```
+
+### Data Engineering & Analytics
+```
+Apache Airflow (ETL Orchestration)
+Apache Spark (Big Data Processing)
+Data Lakehouses (Medallion Architecture)
+Data Warehousing · Star Schema · SCD Type 2
+Pandas · NumPy · Scikit-learn · Data Modeling
+```
+
+### Cloud, DevOps & Infrastructure
+```
+Docker & Docker Compose · Kubernetes (foundational)
+CI/CD Pipelines (Git, GitHub Actions)
+Microsoft Azure Cloud
+Linux (Ubuntu, Kali) · IoT Integration
+```
+
+### Databases & Indexing
+```
+PostgreSQL · MySQL · MongoDB
+Vector Search & Similarity (FAISS, ChromaDB)
+Query Optimization · Advanced Indexing
+Distributed Database Design
+```
+
+### Languages & Frontend
+```
+Python (Expert) · Java (Intermediate) · C (Advanced)
+JavaScript · TypeScript · SQL
+React 19 · Tailwind CSS · Bootstrap 5
+HTML5 / CSS3 · Modern Web Standards
+```
+
+### Tools & Methodologies
+```
+Jira (Scrum, Agile Sprints, Sprint Planning)
+Postman (API Testing & Documentation)
+Jupyter Notebook · Git / GitHub
+Agile Project Management · Digital PM (Odoo)
+Maven · Testing & CI/CD
+```
+
+---
+
+## 🏆 Portfolio Showcase
+
+### 🛡️ AtlasLegalAI
+**Moroccan Legal Intelligence Platform — Multilingual RAG System**
+
+[→ View Repository](https://github.com/tarik-boukaidi/Judiciaire-model)
+
+A domain-specialized **Retrieval-Augmented Generation (RAG)** platform delivering hallucination-free legal analysis in **Arabic & French**. Engineered for Moroccan judicial jurisprudence with strict source grounding, real-time citations, and production-grade inference.
+
+**🔬 Architecture Highlights:**
+| Component | Implementation |
+|-----------|-----------------|
+| **LLM Backbone** | Qwen 2.5 (3B) fine-tuned with LoRA & Unsloth |
+| **Quantization** | 4-bit inference for low-latency deployment |
+| **Retrieval Layer** | Multilingual E5 embeddings + FAISS hybrid search |
+| **API Layer** | FastAPI with streaming response handling |
+| **Frontend** | React 19 + Tailwind CSS with real-time UI |
+
+**Impact:** Zero-hallucination source citations, production-ready legal inference  
+**Tech Stack:** `Qwen 2.5` · `PyTorch` · `LoRA/Unsloth` · `RAG` · `FAISS` · `LangChain` · `FastAPI` · `React 19` · `Tailwind CSS`
+
+---
+
+### 📊 Job Intelligent
+**End-to-End Data Lakehouse & Intelligent Recruitment Engine**
+
+[→ View Repository](https://github.com/JalalGrini/matchwork-ingestion-de-donnees)
+
+A production data platform orchestrating real-time ETL pipelines to transform raw recruitment market data into ML-ready analytics. Built on **Medallion Architecture** with intelligent candidate-job matching powered by NLP.
+
+**🏗️ Architecture Highlights:**
+| Layer | Technology Stack |
+|-------|------------------|
+| **Bronze (Raw)** | Parquet + PostgreSQL ingestion |
+| **Silver (Cleaned)** | Automated transformations, standardization |
+| **Gold (Analytics)** | Star Schema warehouse for business intelligence |
+| **ML Pipeline** | spaCy NLP + Cosine Similarity matching |
+| **API Layer** | FastAPI exposing high-throughput endpoints |
+| **Visualization** | React/TypeScript frontend + Power BI dashboards |
+
+**Orchestration:** Apache Airflow DAGs with containerized Docker workflows  
+**Impact:** Real-time candidate-job alignment, scalable data processing  
+**Tech Stack:** `Apache Airflow` · `Docker` · `PostgreSQL` · `Parquet` · `spaCy` · `FastAPI` · `React/TypeScript` · `Power BI`
+
+---
+
+### 🗓️ PFE Matcher
+**Intelligent Constraint Solver for Academic Scheduling**
+
+[→ View Repository](https://github.com/Moaad-Daoudi/pfe-matcher)
+
+An automated scheduling platform solving multi-variable constraint problems for university final-year project (PFE) defenses, jury assignments, and venue allocation at scale.
 
 **🔬 Technical Highlights:**
-- **Fine-Tuned LLM Backbone:** Optimized `Qwen 2.5 (3B)` using **LoRA** & **Unsloth**, achieving efficient 4-bit quantized inference
-- **Hybrid Legal RAG:** **LangChain** + multilingual **E5 embeddings** + **FAISS** indexing for zero-hallucination source-grounded responses
-- **High-Throughput API:** **FastAPI** inference endpoints powering real-time legal analysis
-- **Modern Web Client:** **React 19** + **Tailwind CSS** with streaming response UI
+| Feature | Solution |
+|---------|----------|
+| **Constraint Solving** | Dynamic algorithm eliminating jury overlap & optimizing pairings |
+| **Data Ingestion** | Robust Apache POI parsing with validation pipelines |
+| **Document Generation** | iText/PDFBox for publication-ready schedules |
+| **API & Frontend** | Spring Boot REST + React/TypeScript with Vite |
+| **Deployment** | Containerized, production-ready architecture |
 
-**Stack:** `Qwen 2.5` • `PyTorch` • `LoRA/Unsloth` • `RAG` • `FAISS` • `LangChain` • `FastAPI` • `React 19` • `Tailwind CSS`
-
----
-
-### 📊 **Job Intelligent** — Intelligent Recruitment Data Platform
-**[→ View Repository](https://github.com/JalalGrini/matchwork-ingestion-de-donnees)**
-
-An **end-to-end Data Lakehouse** and ML-powered job recommendation engine built on **Medallion Architecture**, orchestrating real-time ETL pipelines to transform raw market data into actionable analytics and intelligent matching vectors.
-
-**🔬 Technical Highlights:**
-- **Medallion Data Architecture:** Bronze → Silver → Gold layers (Parquet + PostgreSQL) for scalable, standardized transformations
-- **Orchestrated ETL Pipelines:** Containerized **Apache Airflow** DAGs automating data ingestion with **Star Schema** warehousing
-- **NLP Matching Engine:** **spaCy** skill extraction + **Cosine Similarity** algorithms for real-time candidate-job alignment
-- **Analytics-Ready API:** **FastAPI** exposing high-throughput endpoints to **React/TypeScript** UI and **Power BI** dashboards
-
-**Stack:** `Apache Airflow` • `Docker` • `PostgreSQL` • `Parquet` • `spaCy` • `FastAPI` • `React/TypeScript` • `Power BI`
+**Impact:** 100% accurate scheduling, zero manual conflicts  
+**Tech Stack:** `Java` · `Spring Boot` · `React.js` · `TypeScript` · `Vite` · `Apache POI` · `iText/PDFBox` · `Bootstrap`
 
 ---
 
-### 🗓️ **PFE Matcher** — Intelligent Academic Scheduling Engine
-**[→ View Repository](https://github.com/Moaad-Daoudi/pfe-matcher)**
+### 🛒 Marketplace Platform
+**Multi-Vendor Enterprise ERP Built on Odoo 17/18**
 
-An **automated constraint-solving platform** resolving complex multi-variable scheduling problems for university final-year project defenses, jury assignments, and room allocations in real time.
+[→ View Repository](https://github.com/Moaad-Daoudi/e-commerce_odoo)
 
-**🔬 Technical Highlights:**
-- **Dynamic Constraint Algorithm:** Eliminates jury overlap, pairs topics optimally, balances resources automatically
-- **Bulk Data Ingestion:** Robust **Apache POI** parsing for unstructured Excel datasets with validation pipelines
-- **Document Automation:** **iText/PDFBox** generating formatted, publication-ready defense schedules and notifications
-- **Enterprise Architecture:** Decoupled **Spring Boot** REST API + responsive **React/TypeScript** frontend with **Vite**
+A scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling split order fulfillment, vendor management, and automated financial settlements at enterprise scale.
 
-**Stack:** `Java` • `Spring Boot` • `React.js` • `TypeScript` • `Apache POI` • `iText/PDFBox` • `REST API` • `Bootstrap`
+**🏢 Enterprise Features:**
+| Component | Implementation |
+|-----------|-----------------|
+| **ERP Extensions** | Deep customization of sale, stock, account, payment modules |
+| **Vendor Ecosystem** | End-to-end onboarding, commission tracking, payout automation |
+| **Security & RBAC** | Multi-tier access control with granular Record Rules |
+| **Performance** | Batch processing & database indexing for high transaction volume |
+| **Data Model** | Python ORM with complex business logic |
 
----
-
-### 🛒 **Marketplace Platform (Odoo Enterprise)** — Multi-Vendor ERP
-**[→ View Repository](https://github.com/Moaad-Daoudi/e-commerce_odoo)**
-
-A **custom, scalable multi-vendor marketplace** built on **Odoo 17/18 Enterprise**, extending native ERP workflows for seller management, split fulfillment, and automated financial settlements at enterprise scale.
-
-**🔬 Technical Highlights:**
-- **Deep ERP Customization:** Extended core Odoo modules (`sale`, `stock`, `account`, `website`, `payment`) while preserving native integrity
-- **Vendor Ecosystem:** End-to-end seller onboarding, commission tracking, and scheduled payout automation
-- **Enterprise Security:** Multi-tier RBAC with granular Security Groups & Record Rules for strict vendor data isolation
-- **High-Performance ORM:** Python-native Odoo development with batch processing and database indexing for transaction volume
-
-**Stack:** `Python` • `Odoo 17/18 Enterprise` • `PostgreSQL` • `Odoo ORM` • `QWeb/XML` • `REST/JSON-RPC`
+**Scale:** Production deployment handling high transaction loads  
+**Tech Stack:** `Python` · `Odoo 17/18 Enterprise` · `PostgreSQL` · `Odoo ORM` · `QWeb/XML` · `REST/JSON-RPC`
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 **Full-Stack Developer Intern** @ ONDA (National Airports Office)
+### Full-Stack Developer Intern
+**ONDA — National Airports Office (Maroc)**
 
-**Engineered desktop monitoring systems for airport telecommunications infrastructure:**
-- Built **real-time IHM (Human-Machine Interface)** dashboards in **PySide6** for VHF telecommunications monitoring
-- Integrated **Modbus RTU** industrial protocols for seamless hardware communication
-- Implemented **security controls** protecting critical airport infrastructure
-- Worked with **MySQL** backend and real-time data synchronization
+Engineered real-time monitoring systems for airport telecommunications infrastructure supporting VHF and aeronautical communications.
 
-**Tech Stack:** `Python` • `PySide6` • `MySQL` • `Modbus RTU` • `VHF Telecommunications`
+**Key Deliverables:**
+- 🎛️ **Desktop IHM Dashboards** — Built responsive monitoring interfaces in PySide6 with real-time data synchronization
+- 🔌 **Industrial Protocol Integration** — Implemented Modbus RTU communication layer for seamless hardware connectivity
+- 🔒 **Security Implementation** — Designed and deployed application-level security controls protecting critical infrastructure
+- 📊 **Backend Architecture** — Architected MySQL-backed data layer supporting concurrent monitoring operations
 
----
+**Tech Stack:** `Python` · `PySide6` · `MySQL` · `Modbus RTU` · `VHF Protocols` · `Real-Time Systems`
 
-## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilyas-BELELYAZID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-BELELYAZID&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+**Impact:** Production system managing 24/7 telecommunications monitoring across airport network
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Insights
 
-🔍 **Building:** AI-powered systems that solve real problems  
-📚 **Learning:** Advanced ML Ops, distributed systems, and production inference optimization  
-🤝 **Seeking:** PFE internship opportunities where I can contribute to meaningful AI/data projects  
-💭 **Interested in:** LLM fine-tuning, RAG systems, data architecture, and end-to-end ML pipelines
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilyas-BELELYAZID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=fff&icon_color=8b5cf6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-BELELYAZID&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=fff)
+
+</div>
+
+---
+
+## 🎯 Strategic Focus Areas
+
+| Focus | Details |
+|-------|---------|
+| **🔍 Building** | Production-grade AI systems solving real business problems |
+| **📚 Learning** | Advanced MLOps, distributed systems, inference optimization |
+| **🤝 Seeking** | PFE internship roles in AI, data engineering, or full-stack development |
+| **💭 Interested In** | LLM fine-tuning, RAG architectures, data lakehouse design, ML pipelines |
 
 ---
 
-## 📬 Let's Connect
+## 🚀 What I'm Looking For
 
-I'm always excited to collaborate, discuss AI engineering, or explore opportunities in AI, data, or full-stack development.
+**PFE Internship (2026/2027) in:**
+- ✅ AI/ML Engineering — LLM applications, fine-tuning, RAG systems
+- ✅ Data Engineering — ETL pipelines, data warehousing, cloud infrastructure
+- ✅ Full-Stack Development — Building production applications at scale
+- ✅ Data Science — ML model development, feature engineering, analytics
 
-- **💼 LinkedIn:** [ilyas-bel-el-yazid](https://www.linkedin.com/in/ilyas-bel-el-yazid-870310252)
-- **🐙 GitHub:** [Ilyas-BELELYAZID](https://github.com/Ilyas-BELELYAZID/)
-- **📧 Email:** [belelyazidilyas@gmail.com](mailto:belelyazidilyas@gmail.com)
-- **🌐 Portfolio:** Coming soon (stay tuned 🚀)
+**Ideal Environment:**
+- Companies scaling intelligent systems
+- Teams focused on data-driven architecture
+- Organizations building AI-powered products
+- Fast-paced, innovative tech environments
 
 ---
+
+## 📬 Let's Connect & Collaborate
+
+I'm actively exploring internship opportunities and excited to work on challenging AI/data problems. Let's connect and discuss how I can contribute to your team.
+
+<div align="center">
+
+**📧 Email:** [belelyazidilyas@gmail.com](mailto:belelyazidilyas@gmail.com)  
+**💼 LinkedIn:** [ilyas-bel-el-yazid](https://www.linkedin.com/in/ilyas-bel-el-yazid-870310252)  
+**🐙 GitHub:** [Ilyas-BELELYAZID](https://github.com/Ilyas-BELELYAZID/)  
+**🌐 Portfolio:** Coming Soon (Stay tuned 🚀)
+
+</div>
+
+---
+
+<div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "Intelligence is not about having all the answers,
-   it's about asking better questions and building better systems."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+═══════════════════════════════════════════════════════════════
+
+   "The best systems are built by people who care deeply
+    about solving the right problems in the right way."
+
+═══════════════════════════════════════════════════════════════
 ```
 
-**Thanks for stopping by! Explore my projects, and let's build something intelligent together. 🚀**
+**Let's build something intelligent together.** 🚀
+
+</div>
