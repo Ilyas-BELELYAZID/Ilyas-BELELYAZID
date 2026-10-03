@@ -1,19 +1,21 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8b5cf6&center=true&vCenter=true&width=600&height=70&lines=🤖+Ilyas+BEL+EL+YAZID;AI+Engineer+×+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
-
+  <h1>🤖 Hi, I'm Ilyas BEL EL YAZID</h1>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=8b5cf6&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;Problem+Solver;Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Profile:
     Role: AI Engineer & Full-Stack Developer
     Focus: Production-Grade Intelligent Systems
     Status: 🎯 Seeking PFE Internship (2026/2027)
     Location: ENSA Al Hoceima, Morocco
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
