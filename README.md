@@ -63,153 +63,138 @@
 <details open>
 <summary><b>🤖 AI & Generative Intelligence</b></summary>
 
-```yaml
-Core Competencies:
-  - Generative AI & LLMs (Fine-Tuning, LoRA, QLoRA)
-  - RAG (Retrieval-Augmented Generation)
-  - NLP & Transformers (spaCy, Hugging Face)
-  - Deep Learning (PyTorch, TensorFlow, Keras)
-  - Vector Databases & Similarity Search (FAISS, ChromaDB)
-  - Prompt Engineering & Model Optimization
+### Core Competencies:
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%F0%9F%9A%80-8B5CF6?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%2F%20Transformer%20Models-0EA5E9?style=for-the-badge&logo=openai)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-LoRA%20%7C%20QLoRA-22D3EE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-10B981?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Transformers%20%2F%20spaCy-14B8A6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Optimized-6366F1?style=for-the-badge)
   
-Frameworks:
-  - PyTorch Lightning
-  - Hugging Face Transformers
-  - LangChain
-  - Unsloth (Efficient Fine-Tuning)
-```
+### Frameworks:
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C50?style=for-the-badge&logo=chainlink&logoColor=white)
+![Unsloth (Efficient Fine-Tuning)](https://img.shields.io/badge/Unsloth-EF4444?style=for-the-badge)
+
+### Vector Search & Data
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-8B5CF6?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-06B6D4?style=for-the-badge)
+![Similarity Search](https://img.shields.io/badge/Similarity%20Search-Cosine%20%2F%20Semantic-34D399?style=for-the-badge)
+
 
 </details>
 
 <details>
 <summary><b>🔧 Backend & System Architecture</b></summary>
 
-```yaml
-Frameworks:
-  - FastAPI ⚡
-  - Spring Boot
-  - Flask
+### Frameworks:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   
-Architecture:
-  - RESTful APIs
-  - Microservices Architecture
-  - Design Patterns (MVC, OOP, UML)
-  - Event-Driven Systems
+### Architecture:
+![RESTful%20APIs](https://img.shields.io/badge/RESTful%20APIs-0078D4?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+![Design%20Patterns](https://img.shields.io/badge/Design%20Patterns-MVC%20%2F%20OOP%20%2F%20UML-8B5CF6?style=for-the-badge)
+![Event--Driven](https://img.shields.io/badge/Event--Driven%20Systems-1E40AF?style=for-the-badge)
   
-Specialized:
-  - PySide6 (Desktop Applications)
-  - Odoo Enterprise
-  - Production Deployment & Scaling
-```
+### Specialized:
+![PySide6](https://img.shields.io/badge/PySide6-Desktop%20Apps-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Odoo%20Enterprise](https://img.shields.io/badge/Odoo%20Enterprise-714B67?style=for-the-badge)
 
 </details>
 
 <details>
 <summary><b>📊 Data Engineering & Analytics</b></summary>
 
-```yaml
-Orchestration & Processing:
-  - Apache Airflow (ETL Workflows)
-  - Apache Spark (Big Data Processing)
-  - Data Lakehouses (Medallion Architecture)
+### Orchestration & Processing:
+![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Data%20Lakehouses%20(Medallion%20Architecture)](https://img.shields.io/badge/Data%20Lakehouses-Medallion%20Architecture-F97316?style=for-the-badge)
   
-Data Architecture:
-  - Data Warehousing & Star Schema
-  - SCD Type 2 (Slowly Changing Dimensions)
-  - Batch & Real-Time Processing
+### Data Architecture:
+![Data%20Warehousing](https://img.shields.io/badge/Data%20Warehousing-Star%20Schema%20%2F%20SCD%20Type%202-8B5CF6?style=for-the-badge)
+![Batch%20%26%20Real--Time](https://img.shields.io/badge/Batch%20%26%20Real--Time%20Processing-06B6D4?style=for-the-badge)
   
-Analytics:
-  - Pandas, NumPy, Scikit-learn
-  - Data Modeling & Feature Engineering
-  - Power BI & Business Intelligence
-```
+### Analytics:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </details>
 
 <details>
 <summary><b>🛠️ Cloud, DevOps & Infrastructure</b></summary>
 
-```yaml
-Containerization & Orchestration:
-  - Docker & Docker Compose
-  - Kubernetes (Foundational)
+### Containerization & Orchestration:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
-CI/CD & Version Control:
-  - GitHub Actions
-  - Git Workflows & Best Practices
+### CI/CD & Version Control:
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-Cloud Platforms:
-  - Microsoft Azure
-  - Cloud Computing Fundamentals
+### Cloud Platforms:
+![Microsoft%20Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
   
-System Administration:
-  - Linux (Ubuntu, Kali Linux)
-  - IoT Integration & Protocols
-```
+### System Administration:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT%20Protocols-Modbus%20%2F%20VHF-34D399?style=for-the-badge)
 
 </details>
 
 <details>
 <summary><b>💾 Databases & Indexing</b></summary>
 
-```yaml
-Relational Databases:
-  - PostgreSQL (Advanced)
-  - MySQL
+### Relational Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
-NoSQL & Vector:
-  - MongoDB
-  - FAISS (Vector Search)
-  - ChromaDB
+### NoSQL & Vector:
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-8B5CF6?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-06B6D4?style=for-the-badge)
   
-Optimization:
-  - Query Optimization
-  - Advanced Indexing Strategies
-  - Distributed Database Design
-```
+### Optimization:
+![Query%20Optimization](https://img.shields.io/badge/Query%20Optimization-%26%20Indexing-F59E0B?style=for-the-badge)
+![Distributed%20Design](https://img.shields.io/badge/Distributed%20Database%20Design-EF4444?style=for-the-badge)
 
 </details>
 
 <details>
 <summary><b>💻 Languages & Frontend</b></summary>
 
-```yaml
-Languages:
-  - Python (Expert) ⭐
-  - Java (Intermediate)
-  - C (Advanced)
-  - JavaScript & TypeScript
-  - SQL
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C (Advance)](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   
-Frontend:
-  - React 19
-  - Tailwind CSS
-  - Bootstrap 5
-  - HTML5 / CSS3
-  - Modern Web Standards
-```
+### Frontend:
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details>
 <summary><b>🛠️ Tools & Methodologies</b></summary>
 
-```yaml
-Project Management:
-  - Jira (Scrum & Agile Sprints)
-  - Sprint Planning & Backlog Refinement
+### Project Management:
+![Jira (Scrum & Agile Sprints)](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   
-Development Tools:
-  - Postman (API Testing & Documentation)
-  - Jupyter Notebook
-  - Git / GitHub
-  - Maven
+### Development Tools:
+![Postman (API Testing & Documentation)](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71C22?style=for-the-badge&logo=apachemaven&logoColor=white)
   
-Methodologies:
-  - Agile/Scrum
-  - Test-Driven Development
-  - Digital Project Management (Odoo)
-```
+### Methodologies:
+![Agile/Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-Certified-4B8BBE?style=for-the-badge)
+![Digital%20Project%20Management%20(Odoo)](https://img.shields.io/badge/Odoo%20PM-Digital%20Project%20Management-714B67?style=for-the-badge)
 
 </details>
 
