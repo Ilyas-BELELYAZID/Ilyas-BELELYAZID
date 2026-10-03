@@ -426,6 +426,19 @@ Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling 
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyas-BELELYAZID/Ilyas-BELELYAZID/output/github-snake-neon.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ilyas-BELELYAZID/Ilyas-BELELYAZID/output/github-snake-neon.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <sub>Daily contribution rhythm · building ideas into systems</sub>
+</p>
+
+---
+
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
