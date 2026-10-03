@@ -51,7 +51,7 @@
       <strong>What Drives Me:</strong> Building systems where AI meets rigorous engineering, solving real-world problems, and creating lasting impact.
     </td>
     <td align="center" width="300px">
-      <img src="https://media.giphy.com/media/SWoRKslHVtqguTEsqv/giphy.gif" width="280px" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
     </td>
   </tr>
 </table>
@@ -228,11 +228,9 @@ Methodologies:
 
 </div>
 
-### <img src="https://media.giphy.com/media/QssGEFrIZ27lw6n29f/giphy.gif" width="30px"> 🛡️ AtlasLegalAI
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHhlZW4zZ2oycHpwODk1bzZlcjk4ZnZoNGc4cngwbDJyaDFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cdPbEwxFhD9gpvpGAn/giphy.gif" width="30px"> [AtlasLegalAI](https://github.com/tarik-boukaidi/Judiciaire-model)
 
 **Moroccan Legal Intelligence Platform — Multilingual RAG System**
-
-[→ 📂 View Repository](https://github.com/tarik-boukaidi/Judiciaire-model)
 
 A domain-specialized **Retrieval-Augmented Generation (RAG)** platform delivering hallucination-free legal analysis in **Arabic & French**. Engineered for Moroccan judicial jurisprudence with strict source grounding and production-grade inference.
 
@@ -253,11 +251,9 @@ A domain-specialized **Retrieval-Augmented Generation (RAG)** platform deliverin
 
 ---
 
-### <img src="https://media.giphy.com/media/l0HlDtKPoYJhBR2D2/giphy.gif" width="30px"> 📊 Job Intelligent
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc4aTk4MTBiZmVhZHhsN3JuY2l2YjFoejZrd3QwZm1lMTUyM3dvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5myYgkJvcIpisTHxiK/giphy.gif" width="30px"> [Job Intelligent](https://github.com/JalalGrini/matchwork-ingestion-de-donnees)
 
 **End-to-End Data Lakehouse & Intelligent Recruitment Engine**
-
-[→ 📂 View Repository](https://github.com/JalalGrini/matchwork-ingestion-de-donnees)
 
 Production data platform orchestrating real-time ETL pipelines. Built on **Medallion Architecture** with intelligent candidate-job matching powered by NLP.
 
@@ -278,11 +274,9 @@ Production data platform orchestrating real-time ETL pipelines. Built on **Medal
 
 ---
 
-### <img src="https://media.giphy.com/media/YFlS0tBbm0E0/giphy.gif" width="30px"> 🗓️ PFE Matcher
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFlMGN1emlyaDhyNmZ6dGFydGJ0a2cydWh6azFpMDVqdmNjY3ZyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cs76cERSkNkpFJoJnI/giphy.gif" width="30px"> [PFE Matcher](https://github.com/Moaad-Daoudi/pfe-matcher)
 
 **Intelligent Constraint Solver for Academic Scheduling**
-
-[→ 📂 View Repository](https://github.com/Moaad-Daoudi/pfe-matcher)
 
 Automated scheduling platform solving multi-variable constraint problems for university final-year project defenses at scale.
 
@@ -303,11 +297,9 @@ Automated scheduling platform solving multi-variable constraint problems for uni
 
 ---
 
-### <img src="https://media.giphy.com/media/fYSnHt016H7kOvCSKy/giphy.gif" width="30px"> 🛒 Marketplace Platform
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRncHVjcGhneGtuM3J3b3czM2x1aXFxOHQ4bmhkdG42NDZvMDBkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dSsPZKNXpPiPHkWghn/giphy.gif" width="30px"> [Marketplace Platform](https://github.com/Moaad-Daoudi/e-commerce_odoo)
 
 **Multi-Vendor Enterprise ERP — Odoo 17/18 Enterprise**
-
-[→ 📂 View Repository](https://github.com/Moaad-Daoudi/e-commerce_odoo)
 
 Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling split fulfillment, vendor management, and automated settlements.
 
@@ -428,7 +420,7 @@ Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling 
 
 ## 🎨 Visual Identity
 
-<img src="https://media.giphy.com/media/3o85xIO33l7RlmLR20/giphy.gif" width="400px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzV3dXV6NGRkaXI5aDM2NXF0Y2xna3RpZGU1ZzQyY2VhOTNhdHJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xriPjroKkWhJRjFXSA/giphy.gif" width="270px" />
 
 </div>
 
@@ -471,7 +463,7 @@ I'm actively exploring internship opportunities and excited to work on challengi
 ╚════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://media.giphy.com/media/i1EWYfSa7zMlMzjJMc/giphy.gif" width="100px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2liOG8zZHB3ZXl4OHZ0YnM4MWQwNXoxanYzcWI1eXI4a2ttdzh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95P1vO6r7rsk0/giphy.gif" width="190px" />
 
 **Last Updated:** 2026 • **Status:** 🟢 Open to Opportunities
 
