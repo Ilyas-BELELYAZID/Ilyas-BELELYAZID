@@ -26,7 +26,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-neon.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#0F172A,#7C3AED,#8B5CF6,#A78BFA,#C4B5FD,#DDD6FE,#EDE9FE
+            dist/github-snake-neon.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#3730A3,#6D28D9,#8B5CF6,#A78BFA,#D8B4FE
 
       - name: Push snake animation to output branch
         uses: peaceiris/actions-gh-pages@v4
