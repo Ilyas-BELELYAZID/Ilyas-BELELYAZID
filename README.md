@@ -331,7 +331,7 @@ Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling 
 
 ---
 
-## 📈 GitHub Analytics Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 <table align="center">
@@ -359,6 +359,14 @@ Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilyas-BELELYAZID&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Profile Summary" />
 </p>
+
+---
+
+### 📈 GitHub Most Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ilyas-BELELYAZID/Ilyas-BELELYAZID/master/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 ---
 
