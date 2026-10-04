@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🤖 Hi, I'm Ilyas BEL EL YAZID</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:0F172A&height=140&section=header&reverseDirection=false&text=🤖%20Hi,%20I'm%20Ilyas%20BEL%20EL%20YAZID&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=30&desc=&descAlignY=55&descSize=18"/>
 </div>
 
 <p align="center">
@@ -331,17 +331,34 @@ Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling 
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilyas-BELELYAZID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E6FC&icon_color=8b5cf6&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-BELELYAZID&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E6FC&border_radius=10)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ilyas-BELELYAZID&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=0D1117)
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ilyas-BELELYAZID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E6FC&icon_color=8b5cf6&border_radius=10" width="550" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyas-BELELYAZID&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E6FC&border_radius=10" width="250" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilyas-BELELYAZID&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=8B5CF6&fire=FF6B6B&currStreakNum=E0E6FC&sideNums=E0E6FC&currStreakLabel=E0E6FC&dates=A0AEC0&border_radius=10">
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
+
+### 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilyas-BELELYAZID&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Profile Summary" />
+</p>
 
 ---
 
@@ -465,4 +482,8 @@ I'm actively exploring internship opportunities and excited to work on challengi
 
 **Last Updated:** 2026 • **Status:** 🟢 Open to Opportunities
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:8B5CF6,100:06B6D4&height=140&section=footer&reverseDirection=true" />
 </div>
