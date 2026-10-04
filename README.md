@@ -362,14 +362,6 @@ Scalable multi-vendor marketplace extending **Odoo 17/18 Enterprise**, enabling 
 
 ---
 
-### 📈 GitHub Most Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ilyas-BELELYAZID/Ilyas-BELELYAZID/master/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
----
-
 ## 🎯 What I'm Looking For
 
 <div align="center">
